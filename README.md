@@ -339,7 +339,5 @@ SilentScribe is more than a meeting tool—it's your team's accountability assis
 **Email**: katlegomashego37@gmail.com
 **Company**: Quantum Digital Applications (QDA)
 
-
-
 **License:** MIT License
 
