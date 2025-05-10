@@ -184,22 +184,6 @@ A productivity-driven solution for remote teams, project managers, and consultan
 
 ---
 
-## 🧑‍💻 Contributing
-
-Want to contribute? Feel free to fork and build on it. Reach out with ideas or suggestions!
-
----
-
-## ⭐ Final Thoughts
-
-SilentScribe is more than a meeting tool—it's your team's accountability assistant. With smart transcriptions and task tracking, it ensures no good idea or responsibility is ever forgotten again.
-
-> "Talk less, track more – let SilentScribe handle the details."
-
----
-
-
-
 # 📘 SilentScribe – API Endpoints & UI Screens Documentation
 
 This document provides a comprehensive list of API endpoints and frontend screens to be implemented for the SilentScribe SaaS project.
@@ -333,6 +317,21 @@ This document provides a comprehensive list of API endpoints and frontend screen
 * API secured with JWT auth middleware
 * All data tied to `teamId` for multi-tenant support
 * Summarization and transcription handled via OpenAI/Whisper APIs
+
+
+---
+
+## 🧑‍💻 Contributing
+
+Want to contribute? Feel free to fork and build on it. Reach out with ideas or suggestions!
+
+---
+
+## ⭐ Final Thoughts
+
+SilentScribe is more than a meeting tool—it's your team's accountability assistant. With smart transcriptions and task tracking, it ensures no good idea or responsibility is ever forgotten again.
+
+> "Talk less, track more – let SilentScribe handle the details."
 
 ## 📬 Contact
 
