@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" width=150 height=60/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" width=150 height=60/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" width=150 height=60/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" width=150 height=60/>
 </p>
 
 ## 🧠 Vision
@@ -190,14 +190,6 @@ Want to contribute? Feel free to fork and build on it. Reach out with ideas or s
 
 ---
 
-## 📬 Contact
-
-**Author**: Katlego Mashego
-**Email**: \[Insert your contact email]
-**Company**: Quantum Data Analytics (QDA)
-
----
-
 ## ⭐ Final Thoughts
 
 SilentScribe is more than a meeting tool—it's your team's accountability assistant. With smart transcriptions and task tracking, it ensures no good idea or responsibility is ever forgotten again.
@@ -328,7 +320,7 @@ This document provides a comprehensive list of API endpoints and frontend screen
 
 ---
 
-## 🗂️ Optional (Admin Tools & Settings)
+## 🗂️ Admin Tools & Settings
 
 * **AdminUserList.jsx** – View/manage all users
 * **AppSettings.jsx** – API keys, integrations, feature flags
@@ -342,7 +334,12 @@ This document provides a comprehensive list of API endpoints and frontend screen
 * All data tied to `teamId` for multi-tenant support
 * Summarization and transcription handled via OpenAI/Whisper APIs
 
-Would you like Swagger/OpenAPI documentation or Postman collection next?
+## 📬 Contact
+
+**Author**: Katlego Prince Mashego
+**Email**: katlegomashego37@gmail.com
+**Company**: Quantum Digital Applications (QDA)
+
 
 
 **License:** MIT License
